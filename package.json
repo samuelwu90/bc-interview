@@ -1,0 +1,11 @@
+{
+  "name": "bc-interview",
+  "version": "1.0.0",
+  "description": "BuildingConnected Interview Project (s3 compression)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Samuel Wu (samuelwu@alumni.ubc.ca)",
+  "license": "ISC"
+}
